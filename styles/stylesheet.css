@@ -1,0 +1,21 @@
+body {
+	font-family:'Ubuntu', sans-serif !important;
+    color: #222;
+  	}
+.jumbotron {
+    background-color:#c2efd9 !important;
+}
+.about-me {
+    background-color:#c5dff3;
+}
+.link-color{
+    color: #0B9FE9 ;
+}
+
+.img-bg-color:hover {
+    background-color: #c2efd9;
+}
+
+.list-item {
+    list-style-type: none
+}
